@@ -27,7 +27,11 @@ flex layout responsive to media queries.
 
 # 03 Screenshot
 
-![portfolio demo](./assets/images/capture.jpg)
+![sreenshot](../assets/images/capture.jpg)
+
+https://elipticblock5.github.io/hw02Advanced-RSS/
+
+
 
 
 
