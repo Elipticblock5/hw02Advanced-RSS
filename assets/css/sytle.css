@@ -323,10 +323,11 @@
     flex: 1 30%;
   }
 
-  .runbuddy {
+  .marvel {
     width: 100%;
     height: 400px;
-    background-image: url("runbuddy.jpg");
+    background-image: url("Marvel search");
+    
     background-size: cover;
     object-fit: contain;
     border: 5px solid#fff;
